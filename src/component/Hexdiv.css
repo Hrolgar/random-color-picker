@@ -1,0 +1,26 @@
+.hex__div {
+  border: 1px solid black;
+  padding: 60px;
+
+  text-align: center;
+}
+span {
+  margin-left: 20px;
+}
+
+button {
+  border-radius: 25px;
+  /* padding: 30px; */
+  height: 45px;
+  width: 120px;
+  border: 2px solid grey;
+  background-color: blanchedalmond;
+  font-weight: bold;
+  text-align: center;
+  outline: none;
+  cursor: pointer;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
